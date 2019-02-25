@@ -1,0 +1,11 @@
+/home/zafiron/shared/soapclient/src/generated/com/service/luis/CustomerOrdersPortType.java
+/home/zafiron/shared/soapclient/src/generated/com/service/luis/package-info.java
+/home/zafiron/shared/soapclient/src/generated/com/service/luis/CreateOrdersResponse.java
+/home/zafiron/shared/soapclient/src/generated/com/service/luis/Order.java
+/home/zafiron/shared/soapclient/src/generated/com/service/luis/CreateOrdersRequest.java
+/home/zafiron/shared/soapclient/src/generated/com/service/luis/Product.java
+/home/zafiron/shared/soapclient/src/main/java/com/service/luis/ws/client/CustomerOrdersWSClient.java
+/home/zafiron/shared/soapclient/src/generated/com/service/luis/GetOrdersRequest.java
+/home/zafiron/shared/soapclient/src/generated/com/service/luis/ObjectFactory.java
+/home/zafiron/shared/soapclient/src/generated/com/service/luis/CustomerOrdersService.java
+/home/zafiron/shared/soapclient/src/generated/com/service/luis/GetOrdersResponse.java

@@ -1,0 +1,11 @@
+com/service/luis/CustomerOrdersService.class
+com/service/luis/package-info.class
+com/service/luis/GetOrdersResponse.class
+com/service/luis/CustomerOrdersPortType.class
+com/service/luis/ObjectFactory.class
+com/service/luis/Product.class
+com/service/luis/CreateOrdersResponse.class
+com/service/luis/ws/client/CustomerOrdersWSClient.class
+com/service/luis/CreateOrdersRequest.class
+com/service/luis/Order.class
+com/service/luis/GetOrdersRequest.class

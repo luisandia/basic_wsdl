@@ -1,0 +1,11 @@
+/home/zafiron/shared/wsdlfirstws/src/generated/com/bharath/ws/trainings/GetOrdersRequest.java
+/home/zafiron/shared/wsdlfirstws/src/generated/com/bharath/ws/trainings/CreateOrdersResponse.java
+/home/zafiron/shared/wsdlfirstws/src/generated/com/bharath/ws/trainings/CustomerOrdersPortType.java
+/home/zafiron/shared/wsdlfirstws/src/generated/com/bharath/ws/trainings/CreateOrdersRequest.java
+/home/zafiron/shared/wsdlfirstws/src/generated/com/bharath/ws/trainings/CustomerOrdersService.java
+/home/zafiron/shared/wsdlfirstws/src/generated/com/bharath/ws/trainings/GetOrdersResponse.java
+/home/zafiron/shared/wsdlfirstws/src/generated/com/bharath/ws/trainings/package-info.java
+/home/zafiron/shared/wsdlfirstws/src/generated/com/bharath/ws/trainings/Product.java
+/home/zafiron/shared/wsdlfirstws/src/generated/com/bharath/ws/trainings/ObjectFactory.java
+/home/zafiron/shared/wsdlfirstws/src/main/java/com/bharath/ws/trainings/impl/CustomersOrdersWSImpl.java
+/home/zafiron/shared/wsdlfirstws/src/generated/com/bharath/ws/trainings/Order.java
